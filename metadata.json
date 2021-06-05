@@ -1,19 +1,76 @@
 {
-  "type":"root",
-  "name":"PR2",
-  "description": "My first words",
-  "metadata":[
-    { "type":"data",
-  "description": "Data repository",
-  "metadata":[]},
-  { "type":"model",
-  "description": "Model repository",
-  "metadata":[]},
-  { "type":"code",
-  "description": "Code repository",
-  "metadata":[]},
-  { "type":"doc",
-  "description": "Documentation",
-  "metadata":[]}
+  "type" : "project",
+  "name" : "pr2",
+  "description" : "First words",
+  "tags" : "text generation,NLP,LSTM",
+  "metadata" : [
+    {
+      "name" : "data",
+      "type" : "data",
+      "description" : "Data repository",
+      "metadata" : [
+        {
+          "name" : "1",
+          "type" : "data",
+          "description" : "V 1",
+          "metadata" : [
+            [
+              {
+                "name" : "Shakespeare_data.csv",
+                "type" : "file",
+                "description" : "Info with Shakespeare plays",
+                "metadata" : []
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "model",
+      "type" : "model",
+      "description" : "Model repository",
+      "metadata" : [
+        {
+          "name" : "1",
+          "type" : "data",
+          "description" : "V 1",
+          "metadata" : [
+            {
+              "name" : "shakespeare_text.h5",
+              "type" : "file",
+              "description" : "Model to generate text. Trained with data in V1",
+              "metadata" : []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "code",
+      "type" : "code",
+      "description" : "Code repository",
+      "metadata" : [
+        {
+          "name" : "shakespeare-text-generation.ipynb",
+          "type" : "file",
+          "description" : "Code of project to generate model and text",
+          "metadata" : []
+        }
+      ]
+    },
+    {
+      "name" : "doc",
+      "type" : "doc",
+      "description" : "Documentation",
+      "metadata" : [
+        {
+          "name" : "PR2.docx",
+          "type" : "file",
+          "description" : "Doc of first words",
+          "metadata" : []
+        }
+      ]
+    }
   ]
 }
