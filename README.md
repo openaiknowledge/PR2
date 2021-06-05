@@ -26,8 +26,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/openaiknowledge/pr2">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/openaiknowledge/pr2/tree/master">
+    <img src="logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">pr2-First words</h3>
