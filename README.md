@@ -1,7 +1,7 @@
 <!--
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** openaiknowledge, PR2, openaiknowledge, openaiknowledge@gmail.com, PR2-My first words, Project description
+*** openaiknowledge, pr2, openaiknowledge, openaiknowledge@gmail.com, pr2-First words, Project description
 -->
 
 
@@ -26,23 +26,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/openaiknowledge/PR2">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/openaiknowledge/pr2">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PR2-My first words</h3>
+  <h3 align="center">pr2-First words</h3>
 
   <p align="center">
     Project description
     <br />
-    <a href="https://github.com/openaiknowledge/PR2"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/openaiknowledge/pr2/tree/master/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/openaiknowledge/PR2">View Demo</a>
+    <a href="https://github.com/openaiknowledge/pr2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/openaiknowledge/PR2/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/openaiknowledge/PR2/issues">Request Feature</a>
+    <a href="https://github.com/openaiknowledge/pr2/issues">Request Feature</a>
   </p>
 </p>
 
@@ -83,7 +81,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`openaiknowledge`, `PR2`, `openaiknowledge`, `openaiknowledge@gmail.com`, `PR2-My first words`, `Project description`
+`openaiknowledge`, `pr2`, `openaiknowledge`, `openaiknowledge@gmail.com`, `pr2-First words`, `Project description`
 
 
 ### Built With
@@ -109,7 +107,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/openaiknowledge/PR2.git
+   git clone https://github.com/openaiknowledge/pr2.git
    ```
 
 
@@ -119,14 +117,14 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/openaiknowledge/pr2/tree/master/doc)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/openaiknowledge/PR2/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/openaiknowledge/pr2/issues) for a list of proposed features (and known issues).
 
 
 
@@ -153,9 +151,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@openaiknowledge](https://twitter.com/openaiknowledge) - openaiknowledge@gmail.com
+[@openaiknowledge](https://twitter.com/openaiknowledge) - openaiknowledge@gmail.com
 
-Project Link: [https://github.com/openaiknowledge/PR2](https://github.com/openaiknowledge/PR2)
+Project Link: [https://github.com/openaiknowledge/pr2](https://github.com/openaiknowledge/pr2)
 
 
 
@@ -163,24 +161,21 @@ Project Link: [https://github.com/openaiknowledge/PR2](https://github.com/openai
 ## Acknowledgements
 
 * []()
-* []()
-* []()
-
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/openaiknowledge/PR2.svg?style=for-the-badge
-[contributors-url]: https://github.com/openaiknowledge/PR2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/openaiknowledge/PR2.svg?style=for-the-badge
-[forks-url]: https://github.com/openaiknowledge/PR2/network/members
-[stars-shield]: https://img.shields.io/github/stars/openaiknowledge/PR2.svg?style=for-the-badge
-[stars-url]: https://github.com/openaiknowledge/PR2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/openaiknowledge/PR2.svg?style=for-the-badge
-[issues-url]: https://github.com/openaiknowledge/PR2/issues
-[license-shield]: https://img.shields.io/github/license/openaiknowledge/PR2.svg?style=for-the-badge
-[license-url]: https://github.com/openaiknowledge/PR2/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/openaiknowledge/pr2.svg?style=for-the-badge
+[contributors-url]: https://github.com/openaiknowledge/pr2/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/openaiknowledge/pr2.svg?style=for-the-badge
+[forks-url]: https://github.com/openaiknowledge/pr2/network/members
+[stars-shield]: https://img.shields.io/github/stars/openaiknowledge/pr2.svg?style=for-the-badge
+[stars-url]: https://github.com/openaiknowledge/pr2/stargazers
+[issues-shield]: https://img.shields.io/github/issues/openaiknowledge/pr2.svg?style=for-the-badge
+[issues-url]: https://github.com/openaiknowledge/pr2/issues
+[license-shield]: https://img.shields.io/github/license/openaiknowledge/pr2.svg?style=for-the-badge
+[license-url]: https://github.com/openaiknowledge/pr2/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/openaiknowledge
