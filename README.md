@@ -68,7 +68,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -154,15 +153,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [@openaiknowledge](https://twitter.com/openaiknowledge) - openaiknowledge@gmail.com
 
 Project Link: [https://github.com/openaiknowledge/pr2](https://github.com/openaiknowledge/pr2)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
