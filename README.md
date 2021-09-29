@@ -75,20 +75,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`openaiknowledge`, `pr2`, `openaiknowledge`, `openaiknowledge@gmail.com`, `pr2-First words`, `Project description`
-
+Develop TF code and use AI Models and Datasets necessary to generate text:
+- learning from texts of Shakespeare
+- initial text: “Somewhere in La Mancha, in a place whose name I do not care to remember” (Don Quixote)
 
 ### Built With
-
-* []()
-* []()
-* []()
-
+- Python 
+- Jupyter Notebook
+- Google Colab
+- Tensorflow/Keras
 
 
 <!-- GETTING STARTED -->
